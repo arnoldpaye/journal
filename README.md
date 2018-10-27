@@ -1,7 +1,7 @@
 # journal
 Intended to keep track of my notes
 
-
+<pre>
    _____               ___________
   /  _  \_______  ____ \_   _____/__  ___
  /  /_\  \_  __ \/    \ |    __)_\  \/  /
@@ -9,3 +9,4 @@ Intended to keep track of my notes
 \____|__  /__|  |___|  /_______  /__/\_ \
         \/           \/        \/      \/
 
+</pre>
