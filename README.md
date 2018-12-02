@@ -12,4 +12,8 @@ Intended to keep track of my notes
 </pre>
 
 ## Interesting journal links
+- http://www.robertfeldt.net/advice/se_venues/
 - https://link.springer.com/journal/10664
+- https://www.sciencedirect.com/journal/journal-of-systems-and-software
+- https://www.sciencedirect.com/browse/journals-and-books?subject=software
+- https://www.computer.org/portal/web/tse/
