@@ -10,3 +10,6 @@ Intended to keep track of my notes
         \/           \/        \/      \/
 
 </pre>
+
+## Interesting journal links
+- https://link.springer.com/journal/10664
