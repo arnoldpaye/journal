@@ -27,6 +27,7 @@
 - [https://javascriptweekly.com/issues](https://javascriptweekly.com/issues)
 - [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
 - [https://www.npmjs.com/npm-weekly](https://www.npmjs.com/npm-weekly)
+- [https://news.vuejs.org/archive](https://news.vuejs.org/archive)
 
 ### Golang
 - [https://golangweekly.com/issues](https://golangweekly.com/issues)
