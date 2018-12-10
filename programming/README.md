@@ -12,6 +12,9 @@
 - [https://javascriptweekly.com/issues](https://javascriptweekly.com/issues)
 - [http://reactjsnewsletter.com/issues](http://reactjsnewsletter.com/issues)
 
+### Golang
+- [https://golangweekly.com/issues](https://golangweekly.com/issues)
+
 ### CSS
 - [https://css-weekly.com/archives/](https://css-weekly.com/archives/)
 
