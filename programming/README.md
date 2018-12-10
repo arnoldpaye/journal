@@ -5,6 +5,7 @@
 - [https://www.infoq.com/](https://www.infoq.com/)
 - [https://dev.to/](https://dev.to/)
 - [https://www.reddit.com/r/programming/](https://www.reddit.com/r/programming/)
+- [https://www.codeproject.com/](https://www.codeproject.com/)
 
 ### Java
 - [https://www.javaworld.com/](https://www.javaworld.com/)
@@ -38,3 +39,7 @@
 
 ## Videos
 - [https://dev.tube/](https://dev.tube/)
+
+## Events/Conferences
+- [https://confs.tech/](https://confs.tech/)
+
