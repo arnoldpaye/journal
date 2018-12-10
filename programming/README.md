@@ -13,6 +13,10 @@
 ## Blogs
 - [https://www.yegor256.com/](https://www.yegor256.com/) 
 
+### Javascript
+- [https://overreacted.io/](https://overreacted.io/)
+- [https://medium.com/@_ericelliott](https://medium.com/@_ericelliott)
+
 ### Java
 - [http://javarevisited.blogspot.com](http://javarevisited.blogspot.com)
 
@@ -42,4 +46,5 @@
 
 ## Events/Conferences
 - [https://confs.tech/](https://confs.tech/)
+- [https://www.developerweek.com/](https://www.developerweek.com/)
 
