@@ -1,4 +1,4 @@
-# Web Design
+#Web Design
 
 ## Info
 - [https://www.smashingmagazine.com/](https://www.smashingmagazine.com/)
@@ -13,6 +13,11 @@
 
 ## Weekly
 - [https://web-design-weekly.com/archive/](https://web-design-weekly.com/archive/)
+
+## Inspiration
+- [https://www.awwwards.com/](https://www.awwwards.com/)
+- [https://www.webdesign-inspiration.com/](https://www.webdesign-inspiration.com/)
+- [https://www.thebestdesigns.com/](https://www.thebestdesigns.com/)
 
 ## Links
 - [https://www.templatemonster.com/blog/top-web-design-magazines-graphic-designers/](https://www.templatemonster.com/blog/top-web-design-magazines-graphic-designers/)
