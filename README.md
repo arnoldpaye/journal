@@ -18,3 +18,4 @@ Intended to keep track of my notes
 - https://www.sciencedirect.com/browse/journals-and-books?subject=software
 - https://www.computer.org/portal/web/tse/
 - https://onlinelibrary.wiley.com/journal/13652575
+- https://jserd.springeropen.com/
