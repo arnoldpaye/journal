@@ -8,3 +8,4 @@ From [Higher-Order Componets](https://reactjs.org/docs/higher-order-components.h
 const EnhancedComponent = higherOrderComponent(WrappedComponent);
 ```
 
+- It transforms a component into another component.
